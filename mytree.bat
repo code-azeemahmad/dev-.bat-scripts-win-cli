@@ -1,0 +1,1 @@
+@python "C:\Tools\directory_tree.py" %*
