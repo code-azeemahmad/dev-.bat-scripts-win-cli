@@ -1,10 +1,10 @@
-# ⚡ Windows Developer CLI Tools (`dev-.bat-scripts-win-cli`)
+# Windows Developer CLI Tools (`dev-.bat-scripts-win-cli`)
 
 A lightweight collection of Windows `.bat` scripts designed to automate daily Python, FastAPI, Docker, and AI engineering workflows directly from your Command Prompt or Git Bash terminal.
 
 ---
 
-## 🚀 Included Scripts & Commands
+## Included Scripts & Commands
 
 | Shortcut Command | Script File | Description |
 | :--- | :--- | :--- |
@@ -18,7 +18,7 @@ A lightweight collection of Windows `.bat` scripts designed to automate daily Py
 
 ---
 
-## 🛠️ How to Add `C:\Tools` to Windows PATH
+## How to Add `C:\Tools` to Windows PATH
 
 To run these commands from **any** folder in your terminal, `C:\Tools` must be added to your system's Environment Variables.
 
