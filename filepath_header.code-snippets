@@ -1,0 +1,14 @@
+{
+  "Insert Absolute Path Header": {
+    "scope": "python,javascript,typescript,json,yaml,markdown",
+    "prefix": "ctshc",
+    "body": [
+      "# $RELATIVE_FILEPATH",
+      "$0"
+    ],
+    "description": "Inserts relative file path on line 1"
+  }
+}
+
+// windows + r: %APPDATA%\Code\User\snippets to see the file
+// "# $TM_FILEPATH" Inserts full absolute file path on line 1
